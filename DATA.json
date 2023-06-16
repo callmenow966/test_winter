@@ -18,8 +18,8 @@
     "UnityBanner": "",
     "UnityInterstitial": "",
 
-    "Image_cpaLink" : "https://bucket.cpabuild.com/b/1.gif?fbclid=IwAR2LX-rRwi-cVzzxU5UgPaHeTlf_kFBSEWS7x3mOHSqNwOEAx9UMCm_yjSg",
-    "LinkCpa": "https://www.google.com/",
+    "Image_cpaLink" : "",
+    "LinkCpa": "",
 
     "ImageUrl_banner": "https://bucket.cpabuild.com/b/1.gif?fbclid=IwAR2LX-rRwi-cVzzxU5UgPaHeTlf_kFBSEWS7x3mOHSqNwOEAx9UMCm_yjSg",
     "LinkCpa_banner": "https://www.google.com/",
@@ -31,7 +31,7 @@
     "Image_exit": "https://i.ibb.co/xMSp8M1/INTRERTEST.jpg",
     "link_exit": "https://www.google.com/",
 
-    "privacy" : "https://policies.google.com/privacy?hl=en-US",
+    "privacy" : "",
     "url_exit": "https://www.google.com/",
     "url_bottom_coins": "https://www.google.com/",
 
@@ -66,6 +66,6 @@
     "Click_inter": "0",
 
 
-    "networkAd": "admob"
+    "networkAd": "00"
   }
 }
